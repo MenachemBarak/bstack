@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "task-timer": {
+      "command": "node",
+      "args": ["./start-task-timer.js"]
+    }
+  }
+}
