@@ -1,0 +1,9 @@
+{
+  "name": "bstack",
+  "description": "BStack project plugin — step snapshots and Playwright E2E suite generation",
+  "version": "1.0.0",
+  "author": {
+    "name": "barakmen"
+  },
+  "repository": "github.com/barakmen/bstack"
+}
